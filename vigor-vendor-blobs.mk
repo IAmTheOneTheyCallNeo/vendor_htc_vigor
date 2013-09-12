@@ -67,6 +67,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/vigor/proprietary/lib/libhtc_ril.so:system/lib/libhtc_ril.so \
   vendor/htc/vigor/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
   vendor/htc/vigor/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
+  vendor/htc/vigor/proprietary/lib/libhtc_ril_switch.so:system/lib/libhtc_ril_switch.so \
   vendor/htc/vigor/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
   vendor/htc/vigor/proprietary/lib/libdsprofile.so:system/lib/libdsprofile.so \
   vendor/htc/vigor/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
