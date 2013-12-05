@@ -133,6 +133,9 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vigor/proprietary/lib/egl/libGLESv1_CM_adreno200.so:/system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/htc/vigor/proprietary/lib/egl/libGLESv2_adreno200.so:/system/lib/egl/libGLESv2_adreno200.so \
     vendor/htc/vigor/proprietary/lib/egl/libq3dtools_adreno200.so:/system/lib/egl/libq3dtools_adreno200.so \
+    vendor/htc/vigor/proprietary/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
+    vendor/htc/vigor/proprietary/lib/libOpenCL.so:system/lib/libOpenCL.so \
+    vendor/htc/vigor/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
     vendor/htc/vigor/proprietary/lib/libC2D2.so:/system/lib/libC2D2.so \
     vendor/htc/vigor/proprietary/lib/libgsl.so:/system/lib/libgsl.so \
     vendor/htc/vigor/proprietary/lib/libOpenVG.so:/system/lib/libOpenVG.so \
